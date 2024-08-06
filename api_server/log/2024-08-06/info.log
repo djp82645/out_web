@@ -1,0 +1,99 @@
+[api_server]2024/08/06 - 09:45:38.515	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/06 - 09:45:38.529	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 10:19:18.623	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/06 - 10:19:18.629	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 10:47:45.937	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/06 - 10:47:45.952	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 10:47:45.954	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 10:47:49.266	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 10:47:49.267	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:06:12.796	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:06:12.825	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:06:12.827	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:06:12.839	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:06:12.840	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:09:50.160	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:09:50.172	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:09:50.174	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:09:50.188	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:09:50.189	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:12:16.563	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:12:16.575	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:12:16.577	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:12:16.592	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:12:16.593	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:16:58.984	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:16:58.997	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:16:58.999	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:16:59.014	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:16:59.016	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:17:11.615	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:17:11.626	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:17:11.628	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:17:11.643	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:17:11.643	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:18:52.443	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:18:52.456	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:18:52.457	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:18:52.474	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:18:52.474	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:44:37.411	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:44:37.438	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:44:37.440	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:44:37.499	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:44:37.499	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:45:57.144	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:45:57.156	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:45:57.158	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:45:57.174	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:45:57.175	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:49:21.022	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:49:21.035	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:49:21.036	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:49:21.052	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:49:21.053	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:50:49.206	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:50:49.221	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:50:49.223	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:50:49.239	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:50:49.239	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:52:14.389	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:52:14.404	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:52:14.406	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:52:14.422	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:52:14.422	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:54:24.914	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:54:24.927	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:54:24.928	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:54:24.944	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:54:24.944	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:55:21.578	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:55:21.590	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:55:21.592	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:55:21.607	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:55:21.608	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:56:33.321	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:56:33.334	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:56:33.335	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:56:33.351	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:56:33.352	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 14:59:04.352	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 14:59:04.364	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 14:59:04.365	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 14:59:04.380	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 14:59:04.381	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 15:08:23.718	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 15:08:23.730	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 15:08:23.731	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 15:08:23.746	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 15:08:23.747	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 15:10:22.178	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 15:10:22.190	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 15:10:22.191	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 15:10:22.206	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 15:10:22.207	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/06 - 15:17:39.723	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:71	router register success
+[api_server]2024/08/06 - 15:17:39.736	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:75	数据库连接成功
+[api_server]2024/08/06 - 15:17:39.737	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm_mysql.go:82	数据库创建成功
+[api_server]2024/08/06 - 15:17:42.856	[34minfo[0m	D:/work/work/out_web/api_server/initialize/gorm.go:37	register table success
+[api_server]2024/08/06 - 15:17:42.857	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:27	server run success on 	{"address": "0.0.0.0:8082"}

@@ -1,0 +1,6 @@
+[api_server]2024/08/06 - 10:12:28.821	[31merror[0m	D:/work/work/out_web/api_server/api/v1/user/exa_user.go:23	Login error:password error
+[api_server]2024/08/06 - 10:19:45.060	[31merror[0m	D:/work/work/out_web/api_server/api/v1/user/exa_user.go:23	Login error:password error
+[api_server]2024/08/06 - 14:51:03.288	[31merror[0m	D:/work/work/out_web/api_server/api/v1/api/exa_api.go:36	Add error:json: Unmarshal(non-pointer request.Data)
+[api_server]2024/08/06 - 14:52:22.034	[31merror[0m	D:/work/work/out_web/api_server/api/v1/api/exa_api.go:36	Add error:json: Unmarshal(non-pointer request.DataInfo)
+[api_server]2024/08/06 - 14:54:35.069	[31merror[0m	D:/work/work/out_web/api_server/api/v1/api/exa_api.go:36	Add error:json: Unmarshal(non-pointer request.DataInfo)
+[api_server]2024/08/06 - 15:53:31.823	[31merror[0m	D:/work/work/out_web/api_server/api/v1/user/exa_user.go:23	Login error:password error

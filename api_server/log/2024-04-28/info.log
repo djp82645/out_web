@@ -1,0 +1,36 @@
+[authsystem-server-go]2024/04/28 - 13:54:51.987	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 13:54:51.994	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": ":8200"}
+[authsystem-server-go]2024/04/28 - 13:59:32.919	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 13:59:32.926	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": ":8200"}
+[authsystem-server-go]2024/04/28 - 14:06:48.692	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:06:48.699	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:13:33.672	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:13:33.679	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:14:12.150	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:14:12.156	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:15:33.131	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:15:33.136	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:17:26.657	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:17:26.664	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:18:29.687	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:18:29.694	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:21:57.492	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:21:57.500	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:23:49.664	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:23:49.670	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:35:10.578	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:35:10.584	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:37:32.325	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:37:32.330	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:38:49.418	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:38:49.424	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:38:59.609	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:38:59.615	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:42:23.749	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:42:23.755	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:46:25.897	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:46:25.904	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 14:52:36.369	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:59	router register success
+[authsystem-server-go]2024/04/28 - 14:52:36.375	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}
+[authsystem-server-go]2024/04/28 - 15:02:23.098	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/initialize/router.go:65	router register success
+[authsystem-server-go]2024/04/28 - 15:02:23.105	[34minfo[0m	D:/work/ProgramWorkSpace/go/wokspace/authsystem-server-go/core/server.go:18	server run success on 	{"address": "0.0.0.0:8200"}

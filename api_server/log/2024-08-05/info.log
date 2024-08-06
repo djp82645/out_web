@@ -1,0 +1,24 @@
+[api_server]2024/08/05 - 16:32:51.848	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 16:32:51.855	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8200"}
+[api_server]2024/08/05 - 16:34:05.809	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 16:34:05.814	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 16:34:25.858	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 16:34:25.865	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 16:36:44.115	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 16:36:44.122	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 16:56:43.355	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 16:56:43.361	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:16:24.247	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:70	router register success
+[api_server]2024/08/05 - 17:16:24.254	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:21:22.636	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:70	router register success
+[api_server]2024/08/05 - 17:21:22.643	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:24:03.952	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:70	router register success
+[api_server]2024/08/05 - 17:24:03.958	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:25:16.294	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:70	router register success
+[api_server]2024/08/05 - 17:25:16.300	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:35:52.337	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 17:35:52.342	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:38:57.062	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 17:38:57.068	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
+[api_server]2024/08/05 - 17:48:19.957	[34minfo[0m	D:/work/work/out_web/api_server/initialize/router.go:68	router register success
+[api_server]2024/08/05 - 17:48:19.963	[34minfo[0m	D:/work/work/out_web/api_server/core/server.go:20	server run success on 	{"address": "0.0.0.0:8082"}
